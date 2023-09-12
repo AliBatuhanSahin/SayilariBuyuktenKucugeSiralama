@@ -1,2 +1,2 @@
-# Sayıları Büyükten Küçüğe Sıralama
-### Patika 1. Hafta Sayıları Büyükten Küçüğe Sıralama Pratiği
+# Sayıları Küçükten Büyüğe Sıralama
+### Patika 1. Hafta Sayıları Küçükten Büyüğe Sıralama Pratiği
